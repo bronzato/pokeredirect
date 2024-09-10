@@ -1,0 +1,12 @@
+{
+  "name": "redirect-app",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js que redireciona para pokechess.com.br",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
